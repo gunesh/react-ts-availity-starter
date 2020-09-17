@@ -1,3 +1,5 @@
-# react-ts-w6rwiq
+# Availity Starter Typescript
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-w6rwiq)
+> Simple Template Project For React Web Apps on the Availity Portal using Typescript
+
+## https://github.com/Availity/availity-workflow#react
